@@ -28,7 +28,7 @@ To safeguard your API key, it's recommended not to hard-code it directly into yo
 ### Manage API key with YAML
 Utilizing a YAML file to securely manage your API key is the recommended and straightforward method. Here's a professional guide to implementing this approach:
 
-1. **Create a YAML Configuration File**: Using a trusted text editor such as Visual Studio Code or Sublime Text, create a YAML configuration file named `fmp_api_key.yaml`. Store this file in a secure location, avoiding any unintentional inclusion in your Git repository.
+1. **Create a YAML Configuration File**: Using a trusted text editor such as Visual Studio Code or Sublime Text, create a YAML configuration file named `fmp_api_key.yaml`. Store this file in a secure location, avoiding any unintentional inclusion in your Git repository. Refer to the template file included in this project [here](https://github.com/thinh-vu/FinancialModelingPrep/blob/main/docs/secret_template.yml)
     
 2. **Configure Your YAML File**: In your chosen text editor, structure the content in a key-value pair manner. Specifically, use the format `TOKEN: your_api_key`, ensuring there are no backticks surrounding the `your_api_key` value.
     
