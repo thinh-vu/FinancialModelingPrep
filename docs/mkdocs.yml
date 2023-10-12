@@ -1,5 +1,7 @@
 site_name: FinancialModelingPrep Docs for Python wrapper
-site_url: https://thinh-vu.github.io/FinancialModelingPrep/docs/
+site_url: https://thinh-vu.github.io/FinancialModelingPrep/
+# Copyright
+copyright: Copyright &copy; 2023 - Vnstock.site | Thinh Vu Blog
 theme:
   name: material
   icon:
