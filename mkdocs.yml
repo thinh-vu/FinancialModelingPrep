@@ -1,5 +1,5 @@
 site_name: FinancialModelingPrep Docs for Python wrapper
-site_url: https://thinh-vu.github.io/FinancialModelingPrep/docs/
+site_url: https://thinh-vu.github.io/FinancialModelingPrep/
 theme:
   name: material
   icon:
