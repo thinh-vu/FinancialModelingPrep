@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "requests",
+    "pandas",
+    "PyYAML"
+]
+build-backend = "setuptools.build_meta"
+# dependencies = []

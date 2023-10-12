@@ -1,0 +1,7 @@
+requests
+pandas
+PyYAML
+# google-auth
+# gspread
+# gspread-dataframe
+# plotly

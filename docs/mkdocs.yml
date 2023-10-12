@@ -1,0 +1,73 @@
+site_name: FinancialModelingPrep Docs for Python wrapper
+site_url: https://thinh-vu.github.io/FinancialModelingPrep/docs/
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  # logo: assets/vnstock_logo_bw.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette: 
+    - primary: teal
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for light mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.action.edit
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+  # language: en
+edit_uri: edit/main/docs/docs                 
+plugins:
+  - search
+#   - git-revision-date-localized:
+#       enable_creation_date: true
+#       type: date
+  # - git-authors
+markdown_extensions:
+  - attr_list
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/thinh-vu
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/thinh-vu/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/mr.thinh.ueh
+  # alternate:
+  # - name: English
+  #   link: /en/ 
+  #   lang: en
+  # - name: Việt Nam
+  #   link: /vi/
+  #   lang: vi
+repo_name: FinancialModelingPrep
+repo_url: https://github.com/thinh-vu/FinancialModelingPrep
+
+
+
