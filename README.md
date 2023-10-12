@@ -1,5 +1,5 @@
 <div id="logo" align="center">
-    <a href="https://financialmodelingprep.com/developer/docs?utm_source=ThinhVu&utm_medium=FMP_Github&utm_content=Docs_Site">
+    <a href="https://intelligence.financialmodelingprep.com/pricing-plans?couponCode=thinhvu&utm_source=github&utm_medium=thinhvu_repos&utm_campaign=thinhvu">
         <img src="https://raw.githubusercontent.com/thinh-vu/FinancialModelingPrep/main/docs/docs/assets/fmp_logo.png" alt="logo"/>
     </a>
     <a href="http://vnstock.site/&utm_medium=FMP_Github&utm_content=Docs_Site">
@@ -19,7 +19,7 @@
 
 # I. 🎤 Introduction
 
-> FinancialModelingPrep is a powerful and versatile Python implementation of the [Financial Modeling Prep API](https://financialmodelingprep.com/developer/docs?utm_source=ThinhVu&utm_medium=FMP_Github&utm_content=Docs_Site), designed to simplify and enhance your financial data analysis. With this open-source wrapper, you gain seamless access to the wealth of financial data provided by Financial Modeling Prep, enabling you to make well-informed investment decisions and drive data-driven financial strategies.
+> FinancialModelingPrep is a powerful and versatile Python implementation of the [Financial Modeling Prep API](https://intelligence.financialmodelingprep.com/pricing-plans?couponCode=thinhvu&utm_source=github&utm_medium=thinhvu_repos&utm_campaign=thinhvu), designed to simplify and enhance your financial data analysis. With this open-source wrapper, you gain seamless access to the wealth of financial data provided by Financial Modeling Prep, enabling you to make well-informed investment decisions and drive data-driven financial strategies.
 
 # II. 📔 Quick Start Guide
 

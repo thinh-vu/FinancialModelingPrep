@@ -1,7 +1,7 @@
-# Function references
+# Function References
 
 Before we dig deeper, let's assign the FMP API key to a variable named `token`. This name will be referenced in the following examples.
-Please refer to the [Pricing Page](https://site.financialmodelingprep.com/developer/docs/pricing) for more information about the different plans.
+Please refer to the [Pricing Page](https://intelligence.financialmodelingprep.com/pricing-plans?couponCode=thinhvu&utm_source=github&utm_medium=thinhvu_repos&utm_campaign=thinhvu) for more information about the different plans.
 
 
 ## Stock List
