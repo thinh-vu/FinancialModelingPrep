@@ -51,7 +51,7 @@ To install the FinancialModelingPrep Python Wrapper package with the package nam
 Open your terminal or command prompt and run the following command, or just simply run the code cell in the Demo Notebook:
 
 ```
-pip install FinancialModelingPrep-Python
+pip install --upgrade FinancialModelingPrep-Python
 ```
 
 ### Demo Jupyter Notebook
@@ -112,17 +112,17 @@ To help you navigate and make the most of our resources, here are some tips:
 
 Our documentation provides detailed information about various functions and features. To quickly find what you're looking for:
 
-- Use the search bar at the top of the page. Enter keywords or phrases related to your query and browse through the results.
+- Use the search bar :octicons-search-16: at the top of the page. Enter keywords or phrases related to your query and browse through the results.
 
 ### Change Dark Mode/Light Mode
 
 We understand that different users have different preferences when it comes to reading modes. You can easily switch between Dark Mode and Light Mode to make your reading experience comfortable:
 
-- Look for the theme toggle icon at the top-right corner of the page, nearby the search bar. Click it to switch between Dark Mode and Light Mode to suit your preference.
+- Look for the theme toggle icon :material-brightness-7: at the top-right corner of the page, nearby the search bar. Click it to switch between Dark Mode and Light Mode to suit your preference.
 
 ### Use the Sidebar Table of Contents
 
-The sidebar provides an organized list of topics and sections for easy navigation. To access and utilize the table of contents:
+The sidebar :material-table-of-contents: provides an organized list of topics and sections for easy navigation. To access and utilize the table of contents:
 
 - On the left side of the page, you'll find a menu with a list of sections and subtopics. Click on the section you want to explore, and it will expand to display its contents. This is a handy way to navigate through the documentation efficiently.
 
@@ -130,7 +130,7 @@ The sidebar provides an organized list of topics and sections for easy navigatio
 
 To streamline your coding and implementation of FinancialModelingPrep functions, we've integrated a convenient "Copy Code" feature:
 
-- Throughout the documentation, you'll notice a copy icon next to code examples. Click this icon to copy the code to your clipboard, making it easy to paste and use in your own projects.
+- Throughout the documentation, you'll notice a copy icon :material-content-copy: next to code examples. Click this icon to copy the code to your clipboard, making it easy to paste and use in your own projects.
 
 We hope these tips help you make the most of our documentation. If you have any further questions or need assistance, please feel free to contact our support team. Happy exploring!
 
@@ -144,32 +144,33 @@ Discover ways to engage with and support this Python package. Whether you're a u
 
 ### Star the Project on GitHub
 
-If you find the Python package useful, consider starring the project on GitHub. Starring a repository is a way to show your appreciation and helps increase the package's visibility. To star a project, simply click the "Star" button at the top right of the repository's page.
+If you find the Python package useful, consider starring :material-star: the project on GitHub. Starring a repository is a way to show your appreciation and helps increase the package's visibility. To star a project, simply click the "Star" button at the top right of the repository's page.
 
 ### Watch the Repo on GitHub
 
-Watching a repository on GitHub keeps you updated about the project's activities. You'll receive notifications about new releases, issues, and discussions. To watch a repository, click the "Watch" button, and you can customize notification settings according to your preferences.
+Watching a repository :material-eye: on GitHub keeps you updated about the project's activities. You'll receive notifications about new releases, issues, and discussions. To watch a repository, click the "Watch" button, and you can customize notification settings according to your preferences.
 
 ### Open Issues
 
-If you encounter any bugs, have suggestions for improvements, or need assistance with the package, consider opening an issue on the GitHub repository. When opening an issue, provide clear and detailed information about the problem or suggestion. This helps the maintainers understand and address your concerns effectively.
+If you encounter any bugs :octicons-bug-16:, have suggestions for improvements, or need assistance with the package, consider opening an issue on the GitHub repository. When opening an issue, provide clear and detailed information about the problem or suggestion. This helps the maintainers understand and address your concerns effectively.
 
 ### Fork the Repo to Start Contributing
 
-If you'd like to contribute to the package's development, forking the repository is the first step. This creates your own copy of the project that you can modify and experiment with. You can then make changes, fixes, or additions and submit pull requests to the original repository.
+If you'd like to contribute to the package's development, forking :fontawesome-solid-code-fork: the repository is the first step. This creates your own copy of the project that you can modify and experiment with. You can then make changes, fixes, or additions and submit pull requests to the original repository.
 
 ### Contribute Through Pull Requests
 
-If you're familiar with the code and want to make enhancements, bug fixes, or add new features, you can contribute by creating pull requests. Make sure your changes adhere to the project's contribution guidelines. The maintainers will review your code, and if it aligns with the project's goals, they'll merge your pull request.
+If you're familiar with the code and want to make enhancements, bug fixes, or add new features, you can contribute by creating pull requests :material-source-pull:. Make sure your changes adhere to the project's contribution guidelines. The maintainers will review your code, and if it aligns with the project's goals, they'll merge your pull request.
 
 ### Spread the Word
 
-Help promote the Python package by sharing your positive experiences with it on social media, programming forums, or among your peers. A tweet, blog post, or a mention in relevant communities can go a long way in increasing the package's visibility.
+Help promote the Python package by sharing your positive experiences :loudspeaker: with it on social media, programming forums, or among your peers. A tweet, blog post, or a mention in relevant communities can go a long way in increasing the package's visibility.
 
 ### Provide Feedback
 
-Regularly providing feedback on the package's documentation, usability, or any issues you encounter helps maintainers improve the package. Constructive feedback can lead to valuable enhancements.
+Regularly providing feedback :fontawesome-solid-clipboard-check: on the package's documentation, usability, or any issues you encounter helps maintainers improve the package. Constructive feedback can lead to valuable enhancements.
 
 ### Stay Informed
 
-Keep up-to-date with the project's developments, release notes, and discussions. This helps you make informed decisions about using the package in your projects.
+Keep up-to-date :material-bell: with the project's developments, release notes, and discussions. This helps you make informed decisions about using the package in your projects.
+
