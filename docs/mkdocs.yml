@@ -41,6 +41,7 @@ theme:
 edit_uri: edit/main/docs/docs                 
 plugins:
   - search
+  - tags
 #   - git-revision-date-localized:
 #       enable_creation_date: true
 #       type: date

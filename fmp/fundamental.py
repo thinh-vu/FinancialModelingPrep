@@ -691,7 +691,7 @@ def get_symbol_list(api_key=TOKEN):
         df = pd.DataFrame(response.json(), columns=['symbol'])
         return df
     else:
-        print("Error in getting the data")
+        print(f"Error in getting the data. {response.text}")
         return None
     
 def get_financial_report(symbol='AAPL', api_key=TOKEN, reportType='income-statement', period='quarter', cik=None, limit=400):
@@ -722,7 +722,7 @@ def get_financial_report(symbol='AAPL', api_key=TOKEN, reportType='income-statem
         df = pd.DataFrame(response.json())
         return df
     else:
-        print("Error in getting the data")
+        print(f"Error in getting the data. {response.text}")
         return None
     
 def get_revenue_breakdown(symbol='AAPL', api_key=TOKEN, period='quarter', structure='flat'):
@@ -751,7 +751,7 @@ def get_revenue_breakdown(symbol='AAPL', api_key=TOKEN, period='quarter', struct
         df = pd.concat(report_ls, axis=1)
         return df
     else:
-        print("Error in getting the data")
+        print(f"Error in getting the data. {response.text}")
         return None
     
 
