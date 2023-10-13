@@ -21,7 +21,7 @@ To safeguard your API key, it's recommended not to hard-code it directly into yo
     
 3. **Free vs. Paid Plans**: As a free user, you can access limited features of the wrapper. However, to unlock the full range of capabilities, consider upgrading to one of FMP's paid plans.
     
-4. **Pricing Details**: For more information on the pricing plans and what each plan offers, visit the [FMP Pricing Page](https://intelligence.financialmodelingprep.com/pricing-plans?couponCode=thinhvu&utm_source=github&utm_medium=thinhvu_repos&utm_campaign=thinhvu). Here, you can explore the features available in each plan and choose the one that best suits your needs.
+4. **Pricing Details**: For more information on the pricing plans and what each plan offers, visit the [FMP Pricing Page](https://intelligence.financialmodelingprep.com/pricing-plans?couponCode=thinhvu&utm_source=github&utm_medium=thinhvu_repos&utm_campaign=thinhvu). Here, you can explore the features available in each plan and choose the one that best suits your needs. You will be applied 20% discount on all plans if you use the link above to checkout.
     
 5. **API Key Usage**: With your API key set as the `TOKEN` variable, you can seamlessly authenticate your requests when using the FinancialModelingPrep Python Wrapper. Detailed documentation and code examples are available to help you get started.
 
