@@ -2,7 +2,7 @@
     <a href="https://intelligence.financialmodelingprep.com/pricing-plans?couponCode=thinhvu&utm_source=github&utm_medium=thinhvu_repos&utm_campaign=thinhvu">
         <img src="https://raw.githubusercontent.com/thinh-vu/FinancialModelingPrep/main/docs/docs/assets/fmp_logo.png" alt="logo"/>
     </a>
-    <a href="http://vnstock.site/&utm_medium=FMP_Github&utm_content=Docs_Site">
+    <a href="http://vnstock.site?utm_source=github&utm_medium=FMP_Github&utm_content=Docs_Site">
         <img src="https://raw.githubusercontent.com/thinh-vu/FinancialModelingPrep/main/docs/docs/assets/vnstock_logo_color.png" alt="vnstock_logo"/>
     </a>
 </div>
